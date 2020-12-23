@@ -17,7 +17,7 @@ My first published Unity game. You can find it on both the Google Play store and
 ## Where To Download:
 
 <p align="center">
-  <a href="http://apple.com/us/app/quick-hexa/id150772390">
+  <a href="https://apps.apple.com/us/app/quick-hexa/id1507723904">
     <img src="https://github.com/bolagadalla/Quick_Hexa/blob/main/Screenshots/AppStore.png?raw=true" width="350" title="Play Store">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.AMFUNNYGAMES.QuickHexa">
