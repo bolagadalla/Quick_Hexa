@@ -1,4 +1,4 @@
-# Knife Shot
+# Quick Hexa
 
 My first published Unity game. You can find it on both the Google Play store and the App store. 
 
@@ -9,7 +9,8 @@ My first published Unity game. You can find it on both the Google Play store and
 	-[x] Learned how to use PlayerPrefs to store player settings
 	-[x] Learned to create game difficulty
 	-[x] Learned how to use IEnumerator
-	-[x] Created Custom Audio Manager that would change the volume and pitch of audios. This gave every tap a different feeling everytime a player clicks on a tile.
+	-[x] Created Custom Audio Manager that would change the volume and pitch of audios. 
+	     This gave every tap a different feeling everytime a player clicks on a tile.
 	-[x] Created multiple levels and scenes.
 	-[x] Worked with Unity ads to give the player a second chance once they watch an ad.
 
