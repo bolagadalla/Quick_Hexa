@@ -27,7 +27,7 @@ My first published Unity game. You can find it on both the Google Play store and
 ## How The App Looks
 
 <p align="center">
-  <img src="https://github.com/bolagadalla/Quick_Hexa/blob/main/Screenshots/Screenrecording_1.gif?raw=true" width="350" title="App Recording 1">
+  <img src="https://github.com/bolagadalla/Quick_Hexa/blob/main/Screenshots/gameplay001.gif?raw=true" width="350" title="App Recording 1">
 </p>
 <p align="center">
   <img src="https://github.com/bolagadalla/Quick_Hexa/blob/main/Screenshots/Screenshot_1.jpg?raw=true" width="350" title="App Screenshot 1">
