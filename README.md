@@ -1,4 +1,5 @@
 # Quick Hexa
+**Date Made:** Apr 2020
 
 My first published Unity game. You can find it on both the Google Play store and the App store. 
 
